@@ -14,7 +14,7 @@ public class Sets {
 		//length
 	int size = s.size();
 	System.out.println(size);
-
+boolean contains = s.contains(30);
 	
 	}
 	}
